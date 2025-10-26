@@ -18,7 +18,7 @@ Each notebook focuses on a specific topic such as data analysis, statistics, mac
 
 | Notebook | Topic | Description |
 |-----------|--------|-------------|
-| `01_Diabetes_Analysis.ipynb` | Health Data Analysis | Analyze CDC BRFSS dataset to study diabetes factors using Python, Pandas, and Seaborn. |
+| `(Github)_Diabetics.ipynb` | Health Data Analysis | Analyze CDC BRFSS dataset to study diabetes factors using Python, Pandas, and Seaborn. |
 | `02_Statistics_Covid19_Data.ipynb` | Statistics | Explore and apply descriptive and inferential statistics on COVID-19 data. |
 | `03_Machine_Learning_Car_Price_Prediction.ipynb` | Machine Learning | Build a linear regression model to predict car prices. |
 | `04_Classification_Titanic_Survival.ipynb` | Classification | Predict Titanic survival outcomes using decision trees and logistic regression. |
