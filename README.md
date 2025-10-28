@@ -21,11 +21,6 @@ Each notebook focuses on a specific topic such as data analysis, statistics, mac
 | `(Github)_Diabetics.ipynb` | Health Data Analysis | Analyze CDC BRFSS dataset to study diabetes factors using Python, Pandas, and Seaborn. |
 | `github_AI_and_ML_assignment` |  Machine Learning| Explore and build customer churn data. |
 | `03_Machine_Learning_Car_Price_Prediction.ipynb` | Machine Learning | Build a linear regression model to predict car prices. |
-| `04_Classification_Titanic_Survival.ipynb` | Classification | Predict Titanic survival outcomes using decision trees and logistic regression. |
-| `05_NLP_Sentiment_Analysis.ipynb` | Natural Language Processing | Perform sentiment analysis on text data using NLP tools. |
-| `06_Cloud_Computing_BigQuery.ipynb` | Cloud Computing | Query and analyze large datasets using Google BigQuery and Python API. |
-| `07_Data_Visualization_Techniques.ipynb` | Visualization | Create engaging data visualizations using Seaborn, Plotly, and Matplotlib. |
-| `08_Student_Project_Template.ipynb` | Teaching Template | Template for student-led data science mini-projects. |
 
 ---
 
